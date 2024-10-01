@@ -1,6 +1,7 @@
 ### Hi there 👋
-I study at Poznań University of Technology. I mostly write C/C++ code and use Python for data visualisations. Recently creating Android applications in Kotlin sparked my interest. 
+My name is Tomasz Pawłowski. I study at Poznań University of Technology. I mostly use Python and C++. I'm expanding my skillset to become a DevOps engineer. Recently I had a go at creating Android applications in Kotlin.
 
+🗺️ Skill roadmap: https://roadmap.sh/u/tpawlowski
 📫 Contact: tomasz.pawlowski@tutanota.com
 <!--
 **NiebieskiRekin/NiebieskiRekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
